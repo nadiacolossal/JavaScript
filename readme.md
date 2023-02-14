@@ -1,5 +1,5 @@
 # 7 Days of Code - Lógica de Programação com Javascript
-# teste de commit 2
+# teste de commit 3
 ## Dia 1
 
 #### Exercício
